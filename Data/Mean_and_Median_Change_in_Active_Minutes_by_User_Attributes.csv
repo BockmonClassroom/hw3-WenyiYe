@@ -1,0 +1,13 @@
+user_type,gender,mean,median
+contributor,female,53.6280136936412,21.0
+contributor,male,72.37966675959085,32.0
+contributor,unknown,68.71606994171523,27.0
+new_user,female,6.198917944093778,3.0
+new_user,male,6.57788587020999,3.0
+new_user,unknown,6.182779900088158,3.0
+non_reader,female,6.922043364677675,3.0
+non_reader,male,7.139087692609111,3.0
+non_reader,unknown,6.5505916530858075,3.0
+reader,female,28.585328177632498,11.0
+reader,male,32.354319672162454,13.0
+reader,unknown,30.820668143393156,12.0
